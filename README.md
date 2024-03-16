@@ -3,10 +3,18 @@
 ## About me
   * I am a missionary fulltime and developer by hobby. I’m currently learning Dart and Flutter to develop multiplatform apps.
   
-  * My Main work as developer know is on [Bible Aletheia Project](https://github.com/rodolfogoulart/aletheia-core-model)
+  * My Main work as developer now is on [Bible Aletheia Project](https://github.com/rodolfogoulart/aletheia-core-model)
 
     
   ![image](https://github.com/rodolfogoulart/rodolfogoulart/assets/9324438/7efba6f4-2c86-4dde-b7d1-e65c709e9e00)
+
+<br />
+<br />
+
+## Other projects
+
+|Package Extended Tooltip|[![Pub](https://img.shields.io/pub/v/extended_tooltip.svg)](https://pub.dev/packages/extended_tooltip)|
+| ------------- | ------------- |
 
 <br />
 <br />
@@ -16,6 +24,7 @@
 | ------------- | ------------- |
 
 
+  
 
 
 <!--
