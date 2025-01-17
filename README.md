@@ -14,6 +14,7 @@
     * Commentary of the verse/chapter
     * PDF Reading
     * Personal notes to build messages, studies, ...
+      * Preaching Mode
     * Search on bible
     * Bookmark verse
     * Highlight words on verse
@@ -26,9 +27,11 @@
 
 ## Other projects
 
+| Package                    | Pub dev|
+| -------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Package CloudFlare R2      | [![Pub](https://img.shields.io/pub/v/cloudflare_r2?color=blue)](https://pub.dev/packages/cloudflare_r2) |
+| Package Extended Tooltip   | [![Pub](https://img.shields.io/pub/v/extended_tooltip?color=blue)](https://pub.dev/packages/extended_tooltip) |
 
-| Package Extended Tooltip | [![Pub](https://img.shields.io/pub/v/extended_tooltip.svg)](https://pub.dev/packages/extended_tooltip) |
-| -------------------------- | -------------------------------------------------------------------------------------------------------- |
 
 <br />
 <br />
