@@ -20,7 +20,7 @@
     * Highlight words on verse
     * Multiple readings
 
-![image](https://raw.githubusercontent.com/rodolfogoulart/rodolfogoulart/refs/heads/main/assets/image.png)
+![Aletheia](https://github.com/user-attachments/assets/21113a74-1f9b-4aac-9395-bf31fa0ed73b)
 
 <br />
 <br />
