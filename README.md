@@ -19,6 +19,7 @@
     * Bookmark verse
     * Highlight words on verse
     * Multiple readings
+    * Parallel reading
 
 ![Aletheia](https://github.com/user-attachments/assets/21113a74-1f9b-4aac-9395-bf31fa0ed73b)
 
